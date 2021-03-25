@@ -1,0 +1,1 @@
+# SimpleLinearRegression-Using-Gretl
